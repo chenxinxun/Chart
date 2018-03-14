@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chart</string>
+    <string name="bar_chart">Bar chart</string>
+</resources>
